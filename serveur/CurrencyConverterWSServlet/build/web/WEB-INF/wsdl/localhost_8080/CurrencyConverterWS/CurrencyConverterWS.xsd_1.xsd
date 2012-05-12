@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is JAX-WS RI 2.2.1-hudson-28-. --><xs:schema xmlns:tns="http://cservice/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://cservice/">
+
+<xs:element name="getConversionRates" type="tns:getConversionRates" />
+
+<xs:element name="getConversionRatesResponse" type="tns:getConversionRatesResponse" />
+
+<xs:element name="getConversionRatesV2" type="tns:getConversionRatesV2" />
+
+<xs:element name="getConversionRatesV2Response" type="tns:getConversionRatesV2Response" />
+
+<xs:element name="getLocalConversionRates" type="tns:getLocalConversionRates" />
+
+<xs:element name="getLocalConversionRatesResponse" type="tns:getLocalConversionRatesResponse" />
+
+<xs:complexType name="getConversionRatesV2">
+<xs:sequence />
+</xs:complexType>
+
+<xs:complexType name="getConversionRatesV2Response">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getLocalConversionRates">
+<xs:sequence />
+</xs:complexType>
+
+<xs:complexType name="getLocalConversionRatesResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getConversionRates">
+<xs:sequence />
+</xs:complexType>
+
+<xs:complexType name="getConversionRatesResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+</xs:schema>

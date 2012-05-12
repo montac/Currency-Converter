@@ -1,0 +1,77 @@
+  BODY
+    {
+        FONT-SIZE: 12px;
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+    }
+  TD
+    {
+        FONT-SIZE: 12px;
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+    }
+  H1
+    {
+        FONT-SIZE: 20px;
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+    }
+  H2
+    {
+        FONT-SIZE: 15px;
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+    }
+  H3
+    {
+        FONT-SIZE: 13px;
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+    }
+
+  .tableBorder 
+    {
+      BORDER-RIGHT: #000000 1px solid;
+      BORDER-TOP: 0px;
+      BORDER-LEFT: 0px;
+      BORDER-BOTTOM: #000000 1px solid
+    }
+    
+  .tdBorder 
+    {
+      BORDER-RIGHT: 0px;
+      BORDER-TOP: #000000 1px solid;
+      BORDER-LEFT: #000000 1px solid;
+      BORDER-BOTTOM: 0px
+    }
+
+  .bold
+  {
+      font-weight:bold;
+  }
+
+  .title
+  {
+      font-weight:bold;
+      text-align:center;
+  }
+
+  .paddbottom15
+  {
+    padding-bottom:15px;
+  }
+
+  .paddright20
+  {
+    padding-right:20px;
+  }
+
+  .paddleft10
+  {
+    padding-left:10px;
+  }
+
+  .red
+  {
+      background-color:#ffd5d5;
+  }
+
+  .green
+  {
+      background-color:#d5ffd5;
+  }

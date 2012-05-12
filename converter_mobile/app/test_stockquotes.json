@@ -1,0 +1,67 @@
+{
+   "stockquotes":[
+      {
+		 "arrowUrl": "app/logos/down.png",
+         "ChangeInPercent":"-3.46%",
+         "Change":"584.46",
+         "Ask":"-20.92",
+         "stock_code":"AAPL"
+      },
+      {
+		 "arrowUrl": "app/logos/down.png",
+         "ChangeInPercent":"-2.96%",
+         "Change":"606.17",
+         "Ask":"-18.50",
+         "stock_code":"GOOG"
+      },
+      {
+	     "arrowUrl": "app/logos/up.png",
+         "ChangeInPercent":"+0.68%",
+         "Change":"+0.21",
+         "Ask":"31.02", 
+         "stock_code":"MSFT"
+      },
+      {
+	     "arrowUrl": "app/logos/down.png",
+         "ChangeInPercent":"-0.40%",
+         "Change":"-0.06",
+         "Ask":"14.81",
+         "stock_code":"YHOO"
+      },
+      {
+	     "arrowUrl": "app/logos/up.png",
+         "ChangeInPercent":"+0.42%",
+         "Change":"+0.12",
+         "Ask":"28.62",
+         "stock_code":"ORCL"
+      },
+      {
+	     "arrowUrl": "app/logos/down.png",
+         "ChangeInPercent":"-0.78%",
+         "Change":"-0.155",
+         "Ask":"19.70",
+         "stock_code":"CSCO"
+      },
+      {
+	     "arrowUrl": "app/logos/up.png",
+         "ChangeInPercent":"+0.80%",
+         "Change":"+0.2239",
+         "Ask":"28.32",
+         "stock_code":"INTC"
+      },
+      {
+	     "arrowUrl": "app/logos/down.png",
+         "ChangeInPercent":"-2.51%",
+         "Change":"-0.05",
+         "Ask":"1.95",
+         "stock_code":"ALU"
+      },
+      {
+	     "arrowUrl": "app/logos/up.png",
+         "ChangeInPercent":"+0.43%",
+         "Change":"+0.13",
+         "Ask":"30.67",
+         "stock_code":"T"
+      }
+   ]
+}

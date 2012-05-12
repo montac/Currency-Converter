@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="StockQuotesWS">
+      <implementation-class>cservice.StockQuotesWS</implementation-class>
+    </service>
+    <service name="CurrencyConverterWS">
+      <implementation-class>cservice.CurrencyConverterWS</implementation-class>
+    </service>
+  </services>
+  <clients>
+  </clients>
+</jax-ws>
